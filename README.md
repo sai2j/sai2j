@@ -14,4 +14,3 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)

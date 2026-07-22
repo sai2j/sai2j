@@ -195,8 +195,7 @@ SQL Plus
 <a href="https://github.com/sai2j">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
-<a href="[linkedin.com/in/sahil-kolhe](https://www.linkedin.com/in/sahil-kolhe1)">
+<a href="https://www.linkedin.com/in/sahil-kolhe1">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 

@@ -168,13 +168,7 @@ SQL Plus
 
 ---
 
-# 💻 Most Used Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai2j&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -187,14 +181,6 @@ SQL Plus
 </p>
 
 ---
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sai2j&theme=tokyonight&row=1&column=7"/>
-
-</p>
 
 ---
 
@@ -228,45 +214,7 @@ SQL Plus
 
 ---
 
-# 🐍 Contribution Snake
 
-> Enable this using the **Platane/snk** GitHub Action.
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: sai2j
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
-<p align="center">
-
-> **"Code. Learn. Build. Repeat." 🚀**
-
-</p>
 
 <p align="center">
 

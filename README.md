@@ -1,106 +1,110 @@
-<h1 align="center">Hi 👋, I'm Sahil Kolhe</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Sahil%20Kolhe&fontSize=60&fontAlignY=40&animation=twinkling"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Sahil+Kolhe;Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;REST+API+Developer;Always+Learning+New+Technologies🚀"/>
+</p>
 
 <h3 align="center">
 Java Full Stack Developer | Spring Boot | REST APIs | MySQL
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
-</p>
-
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 B.Tech in Computer Science (2021–2025)
+🎓 B.Tech Computer Science Graduate (2021–2025)
 
-🌱 Currently learning
+💼 Java Full Stack Trainee @ Naresh I Technologies
+
+🌱 Currently Learning
 
 - Spring Boot
 - Hibernate
 - REST APIs
 - Microservices
+- AWS (Basics)
 
-💼 Java Full Stack Trainee at **Naresh I Technologies**
-
-💻 Passionate about Backend Development
-
-🚀 Interested in building scalable enterprise applications.
+💡 Passionate about building scalable backend applications and solving real-world problems.
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,bootstrap,git,github,vscode,eclipse"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,nextjs,react,js,ts,html,css,bootstrap,git,github,vscode,eclipse"/>
 
 </p>
 
 ---
 
-# 💻 Projects
+# 💻 Featured Projects
 
 ## 🛒 E-Commerce Web Application
 
-**Tech Stack**
+✔ Java
 
-- Java
-- Servlets
-- JSP
-- JDBC
-- Oracle
-- Bootstrap
+✔ Servlets
 
-### Features
+✔ JSP
+
+✔ JDBC
+
+✔ Oracle
+
+✔ MVC Architecture
 
 ✔ Authentication
 
-✔ Cart Management
+✔ Cart
 
-✔ Order Processing
+✔ Orders
 
-✔ Invoice Generation
-
-✔ MVC Architecture
+✔ Invoice
 
 ---
 
 ## 🎨 Photoshop Service Website
 
-**Tech Stack**
+✔ HTML
 
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+✔ CSS
 
-### Features
+✔ Bootstrap
+
+✔ JavaScript
 
 ✔ Responsive Design
 
-✔ Professional UI
-
 ✔ Mobile Friendly
 
-✔ Optimized Performance
+✔ Professional UI
 
 ---
 
-# 📚 Training
+# 📚 Professional Training
 
 🏆 Java Full Stack Development
 
 Naresh I Technologies
 
-- Core Java
-- Advanced Java
-- Spring
-- Spring Boot
-- Hibernate
-- REST APIs
-- MVC
-- Postman
+✔ Core Java
+
+✔ Advanced Java
+
+✔ Spring Core
+
+✔ Spring Boot
+
+✔ Hibernate
+
+✔ REST APIs
+
+✔ Postman
+
+✔ MVC
 
 ---
 
@@ -108,39 +112,51 @@ Naresh I Technologies
 
 ### Languages
 
-- Java
-- C
+Java • C
 
-### Frameworks
+### Backend
 
-- Spring Core
-- Spring Boot
-- Spring Data JPA
-- Hibernate
+Spring Core
+
+Spring Boot
+
+Hibernate
+
+Spring Data JPA
+
+REST APIs
 
 ### Database
 
-- MySQL
-- Oracle
+MySQL
 
-### Web
+Oracle
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+### Frontend
+
+HTML
+
+CSS
+
+Bootstrap
+
+JavaScript
 
 ### Tools
 
-- Git
-- GitHub
-- Eclipse
-- VS Code
-- SQL Plus
+Git
+
+GitHub
+
+VS Code
+
+Eclipse
+
+SQL Plus
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -152,7 +168,7 @@ Naresh I Technologies
 
 ---
 
-# 📊 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
 
@@ -162,11 +178,21 @@ Naresh I Technologies
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai2j&theme=tokyo-night"/>
+
+</p>
+
+---
+
 # 🏆 GitHub Trophy
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sai2j&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sai2j&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
@@ -192,8 +218,58 @@ Naresh I Technologies
 
 ---
 
+# 👀 Profile Views
+
 <p align="center">
 
-> *"Building scalable applications, writing clean code, and continuously improving every day."*
+<img src="https://komarev.com/ghpvc/?username=sai2j&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable this using the **Platane/snk** GitHub Action.
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: sai2j
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+<p align="center">
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient"/>
 
 </p>

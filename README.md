@@ -196,7 +196,7 @@ SQL Plus
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/sahil-kolhe">
+<a href="linkedin.com/in/sahil-kolhe">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 

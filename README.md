@@ -103,6 +103,10 @@ Java Full Stack Developer | Spring Boot | REST APIs | MySQL
 
 Java , C
 
+### Frontend
+
+HTML , CSS , Bootstrap , JavaScript
+
 ### Backend
 
 Spring Core , Spring Boot , Spring Data JPA , String boot mvc , Spring REST APIs
@@ -110,10 +114,6 @@ Spring Core , Spring Boot , Spring Data JPA , String boot mvc , Spring REST APIs
 ### Database
 
 MySQL , Oracle
-
-### Frontend
-
-HTML , CSS , Bootstrap , JavaScript
 
 ### Tools
 

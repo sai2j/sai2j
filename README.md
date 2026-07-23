@@ -58,12 +58,6 @@ Java Full Stack Developer | Spring Boot | REST APIs | MySQL
 
 ✔ Authentication
 
-✔ Cart
-
-✔ Orders
-
-✔ Invoice
-
 ---
 
 ## 🎨 Photoshop Service Website
@@ -98,13 +92,11 @@ Naresh I Technologies
 
 ✔ Spring Boot
 
-✔ Hibernate
+✔ Springboot MVC
 
-✔ REST APIs
+✔ Springboot Rest
 
 ✔ Postman
-
-✔ MVC
 
 ---
 
@@ -112,7 +104,9 @@ Naresh I Technologies
 
 ### Languages
 
-Java • C
+Java 
+
+C
 
 ### Backend
 
@@ -156,7 +150,7 @@ SQL Plus
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Status
 
 <p align="center">
 

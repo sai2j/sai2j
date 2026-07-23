@@ -21,7 +21,6 @@ Java Full Stack Developer | Spring Boot | REST APIs | MySQL
 🌱 Currently Learning
 
 - Spring Boot
-- Hibernate
 - REST APIs
 - Microservices
 - AWS (Basics)
@@ -80,9 +79,7 @@ Java Full Stack Developer | Spring Boot | REST APIs | MySQL
 
 # 📚 Professional Training
 
-🏆 Java Full Stack Development
-
-Naresh I Technologies
+🏆 Java Full Stack Development - Naresh I Technologies
 
 ✔ Core Java
 
@@ -92,11 +89,11 @@ Naresh I Technologies
 
 ✔ Spring Boot
 
+✔ Springboot jpa
+
 ✔ Springboot MVC
 
 ✔ Springboot Rest
-
-✔ Postman
 
 ---
 
@@ -114,11 +111,11 @@ Spring Core
 
 Spring Boot
 
-Hibernate
-
 Spring Data JPA
 
-REST APIs
+String boot mvc
+
+Spring REST APIs
 
 ### Database
 

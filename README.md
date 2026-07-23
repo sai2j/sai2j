@@ -101,49 +101,23 @@ Java Full Stack Developer | Spring Boot | REST APIs | MySQL
 
 ### Languages
 
-Java 
-
-C
+Java , C
 
 ### Backend
 
-Spring Core
-
-Spring Boot
-
-Spring Data JPA
-
-String boot mvc
-
-Spring REST APIs
+Spring Core , Spring Boot , Spring Data JPA , String boot mvc , Spring REST APIs
 
 ### Database
 
-MySQL
-
-Oracle
+MySQL , Oracle
 
 ### Frontend
 
-HTML
-
-CSS
-
-Bootstrap
-
-JavaScript
+HTML , CSS , Bootstrap , JavaScript
 
 ### Tools
 
-Git
-
-GitHub
-
-VS Code
-
-Eclipse
-
-SQL Plus
+Git , GitHub , VS Code , Eclipse , SQL Plus
 
 ---
 
